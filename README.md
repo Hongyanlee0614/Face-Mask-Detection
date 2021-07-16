@@ -1,8 +1,9 @@
 # Real Time Face Mask Detection
 This repository is a task of classifying whether a person is wearing a mask or not in real time
 
-![Mask]()
-![No Mask]()
+![Mask](https://github.com/Hongyanlee0614/Face-Mask-Detection/blob/master/mask.PNG)
+![No Mask](https://github.com/Hongyanlee0614/Face-Mask-Detection/blob/master/no_mask.PNG)
+![Plot](https://github.com/Hongyanlee0614/Face-Mask-Detection/blob/master/plot.png)
 
 ## ✨ Features
 
