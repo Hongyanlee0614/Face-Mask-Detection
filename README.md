@@ -60,7 +60,7 @@ python train_mask_detector.py
 ```
 
 A classification report will be shown in the output
-![result]()
+![result](https://github.com/Hongyanlee0614/Face-Mask-Detection/blob/master/result.PNG)
 
 6. **Real time face mask detection**
 
