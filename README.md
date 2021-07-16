@@ -15,7 +15,7 @@ This repository is a task of classifying whether a person is wearing a mask or n
 
 1. **Clone this repository**
 
-Go to your desired directory,
+Go to your Command Prompt (Windows), under your desired directory,
 
 ```
 git clone https://github.com/Hongyanlee0614/Face-Mask-Detection.git
